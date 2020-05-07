@@ -1,2 +1,4 @@
 include a.h
-void main() {}
+int main() {
+	return 1;
+}
